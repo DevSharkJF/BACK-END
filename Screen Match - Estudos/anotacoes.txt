@@ -1,0 +1,4 @@
+Arquivo gson(baixar o file .jar):
+https://mvnrepository.com/artifact/com.google.code.gson/gson/2.13.0
+
+Tirar os códigos da pasta principal e usar separado
